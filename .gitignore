@@ -1,0 +1,9 @@
+# Venv
+/.venv
+/venv
+
+# Secrets
+.env
+.env.local
+
+
