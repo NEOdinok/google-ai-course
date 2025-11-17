@@ -1,0 +1,482 @@
+zmqstream.py:567 ERROR:Uncaught exception in ZMQStream callback
+Traceback (most recent call last):
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/zmq/eventloop/zmqstream.py", line 565, in _log_error
+    f.result()
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 341, in dispatch_control
+    await self.process_control(msg)
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 347, in process_control
+    idents, msg = self.session.feed_identities(msg, copy=False)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/jupyter_client/session.py", line 994, in feed_identities
+    raise ValueError(msg)
+ValueError: DELIM not in msg_list
+zmqstream.py:567 ERROR:Uncaught exception in ZMQStream callback
+Traceback (most recent call last):
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/zmq/eventloop/zmqstream.py", line 565, in _log_error
+    f.result()
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 341, in dispatch_control
+    await self.process_control(msg)
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 347, in process_control
+    idents, msg = self.session.feed_identities(msg, copy=False)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/jupyter_client/session.py", line 994, in feed_identities
+    raise ValueError(msg)
+ValueError: DELIM not in msg_list
+zmqstream.py:567 ERROR:Uncaught exception in ZMQStream callback
+Traceback (most recent call last):
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/zmq/eventloop/zmqstream.py", line 565, in _log_error
+    f.result()
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 341, in dispatch_control
+    await self.process_control(msg)
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 347, in process_control
+    idents, msg = self.session.feed_identities(msg, copy=False)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/jupyter_client/session.py", line 994, in feed_identities
+    raise ValueError(msg)
+ValueError: DELIM not in msg_list
+zmqstream.py:567 ERROR:Uncaught exception in ZMQStream callback
+Traceback (most recent call last):
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/zmq/eventloop/zmqstream.py", line 565, in _log_error
+    f.result()
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 341, in dispatch_control
+    await self.process_control(msg)
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 347, in process_control
+    idents, msg = self.session.feed_identities(msg, copy=False)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/jupyter_client/session.py", line 994, in feed_identities
+    raise ValueError(msg)
+ValueError: DELIM not in msg_list
+zmqstream.py:567 ERROR:Uncaught exception in ZMQStream callback
+Traceback (most recent call last):
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/zmq/eventloop/zmqstream.py", line 565, in _log_error
+    f.result()
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 341, in dispatch_control
+    await self.process_control(msg)
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 347, in process_control
+    idents, msg = self.session.feed_identities(msg, copy=False)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/jupyter_client/session.py", line 994, in feed_identities
+    raise ValueError(msg)
+ValueError: DELIM not in msg_list
+zmqstream.py:567 ERROR:Uncaught exception in ZMQStream callback
+Traceback (most recent call last):
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/zmq/eventloop/zmqstream.py", line 565, in _log_error
+    f.result()
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 341, in dispatch_control
+    await self.process_control(msg)
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 347, in process_control
+    idents, msg = self.session.feed_identities(msg, copy=False)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/jupyter_client/session.py", line 994, in feed_identities
+    raise ValueError(msg)
+ValueError: DELIM not in msg_list
+zmqstream.py:567 ERROR:Uncaught exception in ZMQStream callback
+Traceback (most recent call last):
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/zmq/eventloop/zmqstream.py", line 565, in _log_error
+    f.result()
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 341, in dispatch_control
+    await self.process_control(msg)
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 347, in process_control
+    idents, msg = self.session.feed_identities(msg, copy=False)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/jupyter_client/session.py", line 994, in feed_identities
+    raise ValueError(msg)
+ValueError: DELIM not in msg_list
+zmqstream.py:567 ERROR:Uncaught exception in ZMQStream callback
+Traceback (most recent call last):
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/zmq/eventloop/zmqstream.py", line 565, in _log_error
+    f.result()
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 341, in dispatch_control
+    await self.process_control(msg)
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 347, in process_control
+    idents, msg = self.session.feed_identities(msg, copy=False)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/jupyter_client/session.py", line 994, in feed_identities
+    raise ValueError(msg)
+ValueError: DELIM not in msg_list
+zmqstream.py:567 ERROR:Uncaught exception in ZMQStream callback
+Traceback (most recent call last):
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/zmq/eventloop/zmqstream.py", line 565, in _log_error
+    f.result()
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 341, in dispatch_control
+    await self.process_control(msg)
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 347, in process_control
+    idents, msg = self.session.feed_identities(msg, copy=False)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/jupyter_client/session.py", line 994, in feed_identities
+    raise ValueError(msg)
+ValueError: DELIM not in msg_list
+zmqstream.py:567 ERROR:Uncaught exception in ZMQStream callback
+Traceback (most recent call last):
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/zmq/eventloop/zmqstream.py", line 565, in _log_error
+    f.result()
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 341, in dispatch_control
+    await self.process_control(msg)
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 347, in process_control
+    idents, msg = self.session.feed_identities(msg, copy=False)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/jupyter_client/session.py", line 994, in feed_identities
+    raise ValueError(msg)
+ValueError: DELIM not in msg_list
+zmqstream.py:567 ERROR:Uncaught exception in ZMQStream callback
+Traceback (most recent call last):
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/zmq/eventloop/zmqstream.py", line 565, in _log_error
+    f.result()
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 341, in dispatch_control
+    await self.process_control(msg)
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 347, in process_control
+    idents, msg = self.session.feed_identities(msg, copy=False)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/jupyter_client/session.py", line 994, in feed_identities
+    raise ValueError(msg)
+ValueError: DELIM not in msg_list
+zmqstream.py:567 ERROR:Uncaught exception in ZMQStream callback
+Traceback (most recent call last):
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/zmq/eventloop/zmqstream.py", line 565, in _log_error
+    f.result()
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 341, in dispatch_control
+    await self.process_control(msg)
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 347, in process_control
+    idents, msg = self.session.feed_identities(msg, copy=False)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/jupyter_client/session.py", line 994, in feed_identities
+    raise ValueError(msg)
+ValueError: DELIM not in msg_list
+zmqstream.py:567 ERROR:Uncaught exception in ZMQStream callback
+Traceback (most recent call last):
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/zmq/eventloop/zmqstream.py", line 565, in _log_error
+    f.result()
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 341, in dispatch_control
+    await self.process_control(msg)
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 347, in process_control
+    idents, msg = self.session.feed_identities(msg, copy=False)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/jupyter_client/session.py", line 994, in feed_identities
+    raise ValueError(msg)
+ValueError: DELIM not in msg_list
+zmqstream.py:567 ERROR:Uncaught exception in ZMQStream callback
+Traceback (most recent call last):
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/zmq/eventloop/zmqstream.py", line 565, in _log_error
+    f.result()
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 341, in dispatch_control
+    await self.process_control(msg)
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 347, in process_control
+    idents, msg = self.session.feed_identities(msg, copy=False)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/jupyter_client/session.py", line 994, in feed_identities
+    raise ValueError(msg)
+ValueError: DELIM not in msg_list
+zmqstream.py:567 ERROR:Uncaught exception in ZMQStream callback
+Traceback (most recent call last):
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/zmq/eventloop/zmqstream.py", line 565, in _log_error
+    f.result()
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 341, in dispatch_control
+    await self.process_control(msg)
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 347, in process_control
+    idents, msg = self.session.feed_identities(msg, copy=False)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/jupyter_client/session.py", line 994, in feed_identities
+    raise ValueError(msg)
+ValueError: DELIM not in msg_list
+zmqstream.py:567 ERROR:Uncaught exception in ZMQStream callback
+Traceback (most recent call last):
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/zmq/eventloop/zmqstream.py", line 565, in _log_error
+    f.result()
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 341, in dispatch_control
+    await self.process_control(msg)
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 347, in process_control
+    idents, msg = self.session.feed_identities(msg, copy=False)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/jupyter_client/session.py", line 994, in feed_identities
+    raise ValueError(msg)
+ValueError: DELIM not in msg_list
+zmqstream.py:567 ERROR:Uncaught exception in ZMQStream callback
+Traceback (most recent call last):
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/zmq/eventloop/zmqstream.py", line 565, in _log_error
+    f.result()
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 341, in dispatch_control
+    await self.process_control(msg)
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 347, in process_control
+    idents, msg = self.session.feed_identities(msg, copy=False)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/jupyter_client/session.py", line 994, in feed_identities
+    raise ValueError(msg)
+ValueError: DELIM not in msg_list
+zmqstream.py:567 ERROR:Uncaught exception in ZMQStream callback
+Traceback (most recent call last):
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/zmq/eventloop/zmqstream.py", line 565, in _log_error
+    f.result()
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 341, in dispatch_control
+    await self.process_control(msg)
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 347, in process_control
+    idents, msg = self.session.feed_identities(msg, copy=False)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/jupyter_client/session.py", line 994, in feed_identities
+    raise ValueError(msg)
+ValueError: DELIM not in msg_list
+zmqstream.py:567 ERROR:Uncaught exception in ZMQStream callback
+Traceback (most recent call last):
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/zmq/eventloop/zmqstream.py", line 565, in _log_error
+    f.result()
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 341, in dispatch_control
+    await self.process_control(msg)
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 347, in process_control
+    idents, msg = self.session.feed_identities(msg, copy=False)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/jupyter_client/session.py", line 994, in feed_identities
+    raise ValueError(msg)
+ValueError: DELIM not in msg_list
+zmqstream.py:567 ERROR:Uncaught exception in ZMQStream callback
+Traceback (most recent call last):
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/zmq/eventloop/zmqstream.py", line 565, in _log_error
+    f.result()
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 341, in dispatch_control
+    await self.process_control(msg)
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 347, in process_control
+    idents, msg = self.session.feed_identities(msg, copy=False)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/jupyter_client/session.py", line 994, in feed_identities
+    raise ValueError(msg)
+ValueError: DELIM not in msg_list
+plugin_manager.py:96 INFO:Plugin 'logging_plugin' registered.
+runners.py:266 WARNING:App name mismatch detected. The runner is configured with app name "InMemoryRunner", but the root agent was loaded from "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/google/adk/agents", which implies app name "agents".
+google_llm.py:133 INFO:Sending out request, model: gemini-2.5-flash-lite, backend: GoogleLLMVariant.GEMINI_API, stream: False
+google_llm.py:139 DEBUG:
+LLM Request:
+-----------------------------------------------------------
+System Instruction:
+Your task is to find research papers and count them. 
+
+   You must follow these steps:
+   1) Find research papers on the user provided topic using the 'google_search_agent'. 
+   2) Then, pass the papers to 'count_papers' tool to count the number of papers returned.
+   3) Return both the list of research papers and the total number of papers.
+   
+
+You are an agent. Your internal name is "research_paper_finder_agent".
+-----------------------------------------------------------
+Config:
+{'tools': [{}]}
+-----------------------------------------------------------
+Contents:
+{"parts":[{"text":"Find recent papers on quantum computing"}],"role":"user"}
+-----------------------------------------------------------
+Functions:
+google_search_agent: {'request': {'type': <Type.STRING: 'STRING'>}} 
+count_papers: {'papers': {'items': {'type': <Type.STRING: 'STRING'>}, 'type': <Type.ARRAY: 'ARRAY'>}} 
+-----------------------------------------------------------
+
+_trace.py:87 DEBUG:connect_tcp.started host='generativelanguage.googleapis.com' port=443 local_address=None timeout=None socket_options=None
+_trace.py:87 DEBUG:connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x12dc43b30>
+_trace.py:87 DEBUG:start_tls.started ssl_context=<ssl.SSLContext object at 0x12dac11d0> server_hostname='generativelanguage.googleapis.com' timeout=None
+_trace.py:87 DEBUG:start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x12a7b5160>
+_trace.py:87 DEBUG:send_request_headers.started request=<Request [b'POST']>
+_trace.py:87 DEBUG:send_request_headers.complete
+_trace.py:87 DEBUG:send_request_body.started request=<Request [b'POST']>
+_trace.py:87 DEBUG:send_request_body.complete
+_trace.py:87 DEBUG:receive_response_headers.started request=<Request [b'POST']>
+_trace.py:87 DEBUG:receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=UTF-8'), (b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Encoding', b'gzip'), (b'Date', b'Mon, 17 Nov 2025 15:08:09 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=380'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+_client.py:1740 INFO:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+_trace.py:87 DEBUG:receive_response_body.started request=<Request [b'POST']>
+_trace.py:87 DEBUG:receive_response_body.complete
+_trace.py:87 DEBUG:response_closed.started
+_trace.py:87 DEBUG:response_closed.complete
+google_llm.py:186 INFO:Response received from the model.
+types.py:6324 WARNING:Warning: there are non-text parts in the response: ['function_call'], returning concatenated text result from text parts. Check the full candidates.content.parts accessor to get the full model response.
+google_llm.py:187 DEBUG:
+LLM Response:
+-----------------------------------------------------------
+Text:
+None
+-----------------------------------------------------------
+Function calls:
+name: google_search_agent, args: {'request': 'recent papers on quantum computing'}
+-----------------------------------------------------------
+Raw response:
+{"sdk_http_response":{"headers":{"content-type":"application/json; charset=UTF-8","vary":"Origin, X-Origin, Referer","content-encoding":"gzip","date":"Mon, 17 Nov 2025 15:08:09 GMT","server":"scaffolding on HTTPServer2","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","server-timing":"gfet4t7; dur=380","alt-svc":"h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000","transfer-encoding":"chunked"}},"candidates":[{"content":{"parts":[{"function_call":{"args":{"request":"recent papers on quantum computing"},"name":"google_search_agent"}}],"role":"model"},"finish_reason":"STOP","index":0}],"model_version":"gemini-2.5-flash-lite","response_id":"WTobae3MC9-ZvdIPvefBgQQ","usage_metadata":{"candidates_token_count":21,"prompt_token_count":240,"prompt_tokens_details":[{"modality":"TEXT","token_count":240}],"total_token_count":261}}
+-----------------------------------------------------------
+
+plugin_manager.py:96 INFO:Plugin 'logging_plugin' registered.
+runners.py:266 WARNING:App name mismatch detected. The runner is configured with app name "InMemoryRunner", but the root agent was loaded from "/Users/gosha/Desktop/google-ai-course/.venv/lib/python3.12/site-packages/google/adk/agents", which implies app name "agents".
+google_llm.py:133 INFO:Sending out request, model: gemini-2.5-flash-lite, backend: GoogleLLMVariant.GEMINI_API, stream: False
+google_llm.py:139 DEBUG:
+LLM Request:
+-----------------------------------------------------------
+System Instruction:
+Use the google_search tool to find information on the given topic. Return the raw search results.
+
+You are an agent. Your internal name is "google_search_agent". The description about you is "Searches for information using Google search".
+-----------------------------------------------------------
+Config:
+{}
+-----------------------------------------------------------
+Contents:
+{"parts":[{"text":"recent papers on quantum computing"}],"role":"user"}
+-----------------------------------------------------------
+Functions:
+
+-----------------------------------------------------------
+
+models.py:6856 INFO:AFC is enabled with max remote calls: 10.
+_trace.py:87 DEBUG:connect_tcp.started host='generativelanguage.googleapis.com' port=443 local_address=None timeout=None socket_options=None
+_trace.py:87 DEBUG:connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x12dcb5640>
+_trace.py:87 DEBUG:start_tls.started ssl_context=<ssl.SSLContext object at 0x12dccb3d0> server_hostname='generativelanguage.googleapis.com' timeout=None
+_trace.py:87 DEBUG:start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x12dc842c0>
+_trace.py:87 DEBUG:send_request_headers.started request=<Request [b'POST']>
+_trace.py:87 DEBUG:send_request_headers.complete
+_trace.py:87 DEBUG:send_request_body.started request=<Request [b'POST']>
+_trace.py:87 DEBUG:send_request_body.complete
+_trace.py:87 DEBUG:receive_response_headers.started request=<Request [b'POST']>
+_trace.py:87 DEBUG:receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=UTF-8'), (b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Encoding', b'gzip'), (b'Date', b'Mon, 17 Nov 2025 15:08:14 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=4657'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+_client.py:1740 INFO:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+_trace.py:87 DEBUG:receive_response_body.started request=<Request [b'POST']>
+_trace.py:87 DEBUG:receive_response_body.complete
+_trace.py:87 DEBUG:response_closed.started
+_trace.py:87 DEBUG:response_closed.complete
+google_llm.py:186 INFO:Response received from the model.
+google_llm.py:187 DEBUG:
+LLM Response:
+-----------------------------------------------------------
+Text:
+The field of quantum computing is experiencing rapid advancements, with significant breakthroughs and increased investment shaping its trajectory towards practical applications. Researchers and companies are making substantial progress in quantum error correction, a critical hurdle for building reliable and scalable quantum computers. Companies like Google, IBM, and Microsoft are at the forefront, with Google announcing its Willow chip, capable of computations that would take supercomputers an unfathomable amount of time. IBM is also advancing its roadmap, aiming for quantum advantage by 2026 and fault-tolerant quantum computing by 2029, with its new Nighthawk processor featuring 120 qubits.
+
+Key trends observed in 2024 and projected for 2025 include a shift in focus from physical qubits to "logical qubits," which are more robust against errors and promise higher fidelity. This approach, involving encoding information across multiple physical qubits, is seen as a crucial step towards overcoming the "threshold problem" in quantum computing.
+
+Beyond superconducting circuits, alternative hardware approaches are gaining traction, such as photonic quantum computing, with companies like PsiQuantum unveiling photonic processors. Princeton researchers have also developed a new tantalum-silicon qubit that boasts significantly longer coherence times, a critical factor for reliable quantum computation.
+
+The practical applications of quantum computing are also becoming more apparent. Drug discovery is a particularly promising near-term application, with companies like PolarisQB using quantum annealing to compress discovery timelines. Additionally, quantum computers are expected to enhance AI models by generating unique data and are being explored for complex optimization problems that are intractable for classical computers.
+
+The United Nations has designated 2025 as the International Year of Quantum Science and Technology, highlighting the growing global importance of this field. While widespread, full-scale quantum computing is still a few years away, the convergence of hardware, software, and algorithmic advancements suggests that the "quantum decade" has arrived.
+-----------------------------------------------------------
+Function calls:
+
+-----------------------------------------------------------
+Raw response:
+{"sdk_http_response":{"headers":{"content-type":"application/json; charset=UTF-8","vary":"Origin, X-Origin, Referer","content-encoding":"gzip","date":"Mon, 17 Nov 2025 15:08:14 GMT","server":"scaffolding on HTTPServer2","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","server-timing":"gfet4t7; dur=4657","alt-svc":"h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000","transfer-encoding":"chunked"}},"candidates":[{"content":{"parts":[{"text":"The field of quantum computing is experiencing rapid advancements, with significant breakthroughs and increased investment shaping its trajectory towards practical applications. Researchers and companies are making substantial progress in quantum error correction, a critical hurdle for building reliable and scalable quantum computers. Companies like Google, IBM, and Microsoft are at the forefront, with Google announcing its Willow chip, capable of computations that would take supercomputers an unfathomable amount of time. IBM is also advancing its roadmap, aiming for quantum advantage by 2026 and fault-tolerant quantum computing by 2029, with its new Nighthawk processor featuring 120 qubits.\n\nKey trends observed in 2024 and projected for 2025 include a shift in focus from physical qubits to \"logical qubits,\" which are more robust against errors and promise higher fidelity. This approach, involving encoding information across multiple physical qubits, is seen as a crucial step towards overcoming the \"threshold problem\" in quantum computing.\n\nBeyond superconducting circuits, alternative hardware approaches are gaining traction, such as photonic quantum computing, with companies like PsiQuantum unveiling photonic processors. Princeton researchers have also developed a new tantalum-silicon qubit that boasts significantly longer coherence times, a critical factor for reliable quantum computation.\n\nThe practical applications of quantum computing are also becoming more apparent. Drug discovery is a particularly promising near-term application, with companies like PolarisQB using quantum annealing to compress discovery timelines. Additionally, quantum computers are expected to enhance AI models by generating unique data and are being explored for complex optimization problems that are intractable for classical computers.\n\nThe United Nations has designated 2025 as the International Year of Quantum Science and Technology, highlighting the growing global importance of this field. While widespread, full-scale quantum computing is still a few years away, the convergence of hardware, software, and algorithmic advancements suggests that the \"quantum decade\" has arrived."}],"role":"model"},"finish_reason":"STOP","grounding_metadata":{"grounding_chunks":[{"web":{"title":"medium.com","uri":"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA2S4kR6Hb9FS97U0eg4oql3I6Hb-HF-Vp-UMfGqRn9QRKBwQCuOQm2as1XHYIxJsck_crsGfVBTT5TLUeNth7jp381pBMzLUBPT88f9X2b8dWsGikh6qOwtdOspqjGkUeCGSPTNlJDg-VGMrqSUYoaCQCZ5uEjuGzy8IBnzu5TBrDm72rDmWpTPuarL3zb77L8zN1k4nUgbPg2AXRaD-hfv44zlYJetmsqZQGk2tbp_ErMNxXpQ=="}},{"web":{"title":"www.csiro.au","uri":"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6s737U4N2PcLHGm8rTPSe-Xu5Q8zQrWUG7gpyZ8HY2dYh-_9FhbhbddUwwd5AVm88WgPs2Fc5MPddVonCnE2Qqq6WJfA1wUNYRCmlFcFXx5-5IdKr-3fJhBo9ui7pX1HgwkeV7W6mKGkrZjLLpRxRVNILtwaqvl5Tu_VUoqweXJArLZXnaGabSRsx5GB0cWsPZzA4I9qydw=="}},{"web":{"title":"yardeniquicktakes.com","uri":"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDMmX0bGFv-AWZEY6Pj_RUKDrG9wQZbj66geONdi7NrtJDYHg-UqLqMVfnz830NNpFn5gpaorAOxTv8w2A9COTZU4yxPyww8vlV8qUCA-C_OQGcSAEWCxeP2J3PJ-3iX2Px8YYJQPd_2YN4cvwS3GgQYgR6B9XWKfBDtvluwqElv_rO2NFShjUyP4="}},{"web":{"title":"quantumcomputingreport.com","uri":"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb9Hd-eJjy-8THrNlL1FD895pCeyN-NFA08kuaN82T_EeSxeMzk0NhmQtW-uLLjtQMtcEqqtnTkqelbJtOcHZBW0GLdIUxCq_XF349BQwpb22P-v3MqtH_IsV8VOxBq4sWFey07v-k9f6LJ7AgFZUDGFV7yOv4M0NaxkmWrMj-Iwok-roigKtKtM0L-50INzHnx3hFSjK1beSubfvi_P2bu8CLIsWH_VexaL_AWyrHQZEMwDKI"}},{"web":{"title":"thequantuminsider.com","uri":"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWMe-g69FBf_JgectmSQMM2aQkfAhHDFmo3lmLlLDVFiFXGQKSZDjeZhGm3-wkPq0tI_VsaHk4--DG3jKfCOp-6KaC1AbFvlDAq3R50o8oSMb4JB6MD_BV8PIgLa6z_qKjzMlVMP4CyYZne146Ka0I9lwu6K6qj_SC1VsbA5CKDNoLH-WtEk4vTaNPZLQ55n9D0nQoMsKpcqEPe_XeAT3asUEqImxKzFm5miVjRDf90VC_bduPckfUcGn8z9RLqHzOYsZC"}},{"web":{"title":"moodys.com","uri":"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtYm-86VMr38Vx6RwAYC1oQ5ykMfWyMpbHOiNdkkSN0Y7QwnyMnqG1bNqcKEGScop579Fisgs1Dos_mVds6rpRzhD6IldTPvxJj7FU5LSCbQTviWNOtwOnpg2KOHtAUSXZ3Z-SMhludtQGvO3dKs_vVORC9UupI90vTfufeQbZbUYOSgzHj862Kx7t1qYgYCZQiSQVeOZrvtXXU1tT9SCG2KLEmaBq"}},{"web":{"title":"sciencedaily.com","uri":"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJKSoeybvSl787RyA-OIJNF1HImMvIBjZb6fOvaGAvPxWAroUdUZhJwHVYPWhzUPxFcMi7MWBwnWLieJEK8NAc1YS7ZpGL7255sL-9ISl37g4DCo6wOu6xBOfhvvmh1FEuOE4-kNpnG0g3YsXFMxOKEoQrwoDs7Fo="}},{"web":{"title":"theguardian.com","uri":"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH-ZZM1ZPo79bitzTHVXzdrpJIczRgG_jU0VsGVIm2_TrElqZrylEwW-PQjITBRL58k86qFNv95Oa8nWqkdl_eWNoQTKSu4KZWs_fp1cu8EF60_fQ7Mz-5cVuqwgL73ztHqNYWz7D6fGFtANbmN1XwBE1RQFPhKEeCzngyE9V2xbsFzZM5M_X0wwvEy6PVemyOB0rTuWGuRXK2T47M-H1EtzgQQlBjk2XV1M83o-jecQDSfCZLRc93kLCml8grSw=="}},{"web":{"title":"research.google","uri":"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDZBV7f6klpmi_hd4nnHcr8lYkC_hNEUDdboB4JsPEKfLUsuHCalqV17n6hdKMf388BsPqE03jtQX6wHdASvcOSN7Qvc3VrN9q_J2pBSlaz8iAXdT6VPCHvGq5KcpwkA7kew3JzkLmKSGyuaGoytMz9WLhTQ0N-g84IAGnOFI="}}],"grounding_supports":[{"grounding_chunk_indices":[0,1],"segment":{"end_index":335,"start_index":178,"text":"Researchers and companies are making substantial progress in quantum error correction, a critical hurdle for building reliable and scalable quantum computers"}},{"grounding_chunk_indices":[0,2],"segment":{"end_index":526,"start_index":337,"text":"Companies like Google, IBM, and Microsoft are at the forefront, with Google announcing its Willow chip, capable of computations that would take supercomputers an unfathomable amount of time"}},{"grounding_chunk_indices":[3],"segment":{"end_index":699,"start_index":528,"text":"IBM is also advancing its roadmap, aiming for quantum advantage by 2026 and fault-tolerant quantum computing by 2029, with its new Nighthawk processor featuring 120 qubits"}},{"grounding_chunk_indices":[4,0,1,5],"segment":{"end_index":884,"start_index":702,"text":"Key trends observed in 2024 and projected for 2025 include a shift in focus from physical qubits to \"logical qubits,\" which are more robust against errors and promise higher fidelity"}},{"grounding_chunk_indices":[0],"segment":{"end_index":1054,"start_index":886,"text":"This approach, involving encoding information across multiple physical qubits, is seen as a crucial step towards overcoming the \"threshold problem\" in quantum computing"}},{"grounding_chunk_indices":[0],"segment":{"end_index":1240,"start_index":1057,"text":"Beyond superconducting circuits, alternative hardware approaches are gaining traction, such as photonic quantum computing, with companies like PsiQuantum unveiling photonic processors"}},{"grounding_chunk_indices":[6],"segment":{"end_index":1413,"start_index":1242,"text":"Princeton researchers have also developed a new tantalum-silicon qubit that boasts significantly longer coherence times, a critical factor for reliable quantum computation"}},{"grounding_chunk_indices":[0],"segment":{"end_index":1648,"start_index":1497,"text":"Drug discovery is a particularly promising near-term application, with companies like PolarisQB using quantum annealing to compress discovery timelines"}},{"grounding_chunk_indices":[7,8],"segment":{"end_index":1843,"start_index":1650,"text":"Additionally, quantum computers are expected to enhance AI models by generating unique data and are being explored for complex optimization problems that are intractable for classical computers"}},{"grounding_chunk_indices":[4,1],"segment":{"end_index":2002,"start_index":1846,"text":"The United Nations has designated 2025 as the International Year of Quantum Science and Technology, highlighting the growing global importance of this field"}},{"grounding_chunk_indices":[0],"segment":{"end_index":2192,"start_index":2004,"text":"While widespread, full-scale quantum computing is still a few years away, the convergence of hardware, software, and algorithmic advancements suggests that the \"quantum decade\" has arrived"}}],"search_entry_point":{"rendered_content":"<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxyEgxy8ueqB-NePDjY_NneMZaNg9J5MxNkUAHuKY2Pl1LFJ0B7E0AEtN5Aasz0yq9F6KmMr0b7z-LzDl0EXNdKJVCF05jcYBU283zJcrhjnUsETkBoMUIBLnDiu2fmqBr5I2S6B_XFVC_OXRgVOY1v1gKZ_2TE5f_I88Awb5NeNgU72g-S2IeNO-cIsBi8UcaYDMQ3mqwkbnP_iwQlM3pjdmGP-X7xRgpunw=\">quantum computing breakthroughs 2024 2025</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZjPjaCnZb-MaGDxjZjvqv7LgfFm60-rH_sNfnGd1_Z--iDrHPXWAAdCC9NTmVZM-4woP0hwQ49FVvJ8KYScwkFFCMt1KuU7gvbMHLiH7v6PcOiNdrrhu170xc7ojIIrK9xqNfDmwm2Zj0f7vW2mnaztYVrNN6qzAr2kP0n591nt0YTMtmjs1E1lmbXm18_scRaNJrKHBxyEBnsLnLmOU6m_yjlA==\">recent papers on quantum computing</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGY0J-5Pw5gMKX4LLkt14ex_yYg2xgprYZ9zSVUwk4537BBFHloYGxFV06SS6w6kTprVWAEsp1ENmQW4MOr33B5N2o4ZiVrgWPXEBnLCpPVn-52huwQMmtTLdwVgvsra8-4DJUnpTwItemNGZrlg1snqdoDSP9IwnbtLk8b80d6LM08wpG_rD6WwNkTvb5cB820ng4kwAuaB8u9PI0ogrD6kSQNE86fsqfMcJjoEmWcv403\">advances in quantum computing research 2024 2025</a>\n  </div>\n</div>\n"},"web_search_queries":["recent papers on quantum computing","advances in quantum computing research 2024 2025","quantum computing breakthroughs 2024 2025"]},"index":0}],"model_version":"gemini-2.5-flash-lite","response_id":"XjobaZO1DtalkdUPpciFuQo","usage_metadata":{"candidates_token_count":430,"prompt_token_count":58,"prompt_tokens_details":[{"modality":"TEXT","token_count":58}],"tool_use_prompt_token_count":107,"tool_use_prompt_tokens_details":[{"modality":"TEXT","token_count":107}],"total_token_count":595},"automatic_function_calling_history":[]}
+-----------------------------------------------------------
+
+google_llm.py:133 INFO:Sending out request, model: gemini-2.5-flash-lite, backend: GoogleLLMVariant.GEMINI_API, stream: False
+google_llm.py:139 DEBUG:
+LLM Request:
+-----------------------------------------------------------
+System Instruction:
+Your task is to find research papers and count them. 
+
+   You must follow these steps:
+   1) Find research papers on the user provided topic using the 'google_search_agent'. 
+   2) Then, pass the papers to 'count_papers' tool to count the number of papers returned.
+   3) Return both the list of research papers and the total number of papers.
+   
+
+You are an agent. Your internal name is "research_paper_finder_agent".
+-----------------------------------------------------------
+Config:
+{'tools': [{}]}
+-----------------------------------------------------------
+Contents:
+{"parts":[{"text":"Find recent papers on quantum computing"}],"role":"user"}
+{"parts":[{"function_call":{"args":{"request":"recent papers on quantum computing"},"name":"google_search_agent"}}],"role":"model"}
+{"parts":[{"function_response":{"name":"google_search_agent","response":{"result":"The field of quantum computing is experiencing rapid advancements, with significant breakthroughs and increased investment shaping its trajectory towards practical applications. Researchers and companies are making substantial progress in quantum error correction, a critical hurdle for building reliable and scalable quantum computers. Companies like Google, IBM, and Microsoft are at the forefront, with Google announcing its Willow chip, capable of computations that would take supercomputers an unfathomable amount of time. IBM is also advancing its roadmap, aiming for quantum advantage by 2026 and fault-tolerant quantum computing by 2029, with its new Nighthawk processor featuring 120 qubits.\n\nKey trends observed in 2024 and projected for 2025 include a shift in focus from physical qubits to \"logical qubits,\" which are more robust against errors and promise higher fidelity. This approach, involving encoding information across multiple physical qubits, is seen as a crucial step towards overcoming the \"threshold problem\" in quantum computing.\n\nBeyond superconducting circuits, alternative hardware approaches are gaining traction, such as photonic quantum computing, with companies like PsiQuantum unveiling photonic processors. Princeton researchers have also developed a new tantalum-silicon qubit that boasts significantly longer coherence times, a critical factor for reliable quantum computation.\n\nThe practical applications of quantum computing are also becoming more apparent. Drug discovery is a particularly promising near-term application, with companies like PolarisQB using quantum annealing to compress discovery timelines. Additionally, quantum computers are expected to enhance AI models by generating unique data and are being explored for complex optimization problems that are intractable for classical computers.\n\nThe United Nations has designated 2025 as the International Year of Quantum Science and Technology, highlighting the growing global importance of this field. While widespread, full-scale quantum computing is still a few years away, the convergence of hardware, software, and algorithmic advancements suggests that the \"quantum decade\" has arrived."}}}],"role":"user"}
+-----------------------------------------------------------
+Functions:
+google_search_agent: {'request': {'type': <Type.STRING: 'STRING'>}} 
+count_papers: {'papers': {'items': {'type': <Type.STRING: 'STRING'>}, 'type': <Type.ARRAY: 'ARRAY'>}} 
+-----------------------------------------------------------
+
+_trace.py:87 DEBUG:close.started
+_trace.py:87 DEBUG:close.complete
+_trace.py:87 DEBUG:connect_tcp.started host='generativelanguage.googleapis.com' port=443 local_address=None timeout=None socket_options=None
+_trace.py:87 DEBUG:connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x12dcb6150>
+_trace.py:87 DEBUG:start_tls.started ssl_context=<ssl.SSLContext object at 0x12dac11d0> server_hostname='generativelanguage.googleapis.com' timeout=None
+_trace.py:87 DEBUG:start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x12dcb5a00>
+_trace.py:87 DEBUG:send_request_headers.started request=<Request [b'POST']>
+_trace.py:87 DEBUG:send_request_headers.complete
+_trace.py:87 DEBUG:send_request_body.started request=<Request [b'POST']>
+_trace.py:87 DEBUG:send_request_body.complete
+_trace.py:87 DEBUG:receive_response_headers.started request=<Request [b'POST']>
+_trace.py:87 DEBUG:receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=UTF-8'), (b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Encoding', b'gzip'), (b'Date', b'Mon, 17 Nov 2025 15:08:16 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=1553'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+_client.py:1740 INFO:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+_trace.py:87 DEBUG:receive_response_body.started request=<Request [b'POST']>
+_trace.py:87 DEBUG:receive_response_body.complete
+_trace.py:87 DEBUG:response_closed.started
+_trace.py:87 DEBUG:response_closed.complete
+google_llm.py:186 INFO:Response received from the model.
+types.py:6324 WARNING:Warning: there are non-text parts in the response: ['function_call'], returning concatenated text result from text parts. Check the full candidates.content.parts accessor to get the full model response.
+google_llm.py:187 DEBUG:
+LLM Response:
+-----------------------------------------------------------
+Text:
+None
+-----------------------------------------------------------
+Function calls:
+name: count_papers, args: {'papers': ['The field of quantum computing is experiencing rapid advancements, with significant breakthroughs and increased investment shaping its trajectory towards practical applications. Researchers and companies are making substantial progress in quantum error correction, a critical hurdle for building reliable and scalable quantum computers. Companies like Google, IBM, and Microsoft are at the forefront, with Google announcing its Willow chip, capable of computations that would take supercomputers an unfathomable amount of time. IBM is also advancing its roadmap, aiming for quantum advantage by 2026 and fault-tolerant quantum computing by 2029, with its new Nighthawk processor featuring 120 qubits.\n\nKey trends observed in 2024 and projected for 2025 include a shift in focus from physical qubits to "logical qubits," which are more robust against errors and promise higher fidelity. This approach, involving encoding information across multiple physical qubits, is seen as a crucial step towards overcoming the "threshold problem" in quantum computing.\n\nBeyond superconducting circuits, alternative hardware approaches are gaining traction, such as photonic quantum computing, with companies like PsiQuantum unveiling photonic processors. Princeton researchers have also developed a new tantalum-silicon qubit that boasts significantly longer coherence times, a critical factor for reliable quantum computation.\n\nThe practical applications of quantum computing are also becoming more apparent. Drug discovery is a particularly promising near-term application, with companies like PolarisQB using quantum annealing to compress discovery timelines. Additionally, quantum computers are expected to enhance AI models by generating unique data and are being explored for complex optimization problems that are intractable for classical computers.\n\nThe United Nations has designated 2025 as the International Year of Quantum Science and Technology, highlighting the growing global importance of this field. While widespread, full-scale quantum computing is still a few years away, the convergence of hardware, software, and algorithmic advancements suggests that the "quantum decade" has arrived.']}
+-----------------------------------------------------------
+Raw response:
+{"sdk_http_response":{"headers":{"content-type":"application/json; charset=UTF-8","vary":"Origin, X-Origin, Referer","content-encoding":"gzip","date":"Mon, 17 Nov 2025 15:08:16 GMT","server":"scaffolding on HTTPServer2","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","server-timing":"gfet4t7; dur=1553","alt-svc":"h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000","transfer-encoding":"chunked"}},"candidates":[{"content":{"parts":[{"function_call":{"args":{"papers":["The field of quantum computing is experiencing rapid advancements, with significant breakthroughs and increased investment shaping its trajectory towards practical applications. Researchers and companies are making substantial progress in quantum error correction, a critical hurdle for building reliable and scalable quantum computers. Companies like Google, IBM, and Microsoft are at the forefront, with Google announcing its Willow chip, capable of computations that would take supercomputers an unfathomable amount of time. IBM is also advancing its roadmap, aiming for quantum advantage by 2026 and fault-tolerant quantum computing by 2029, with its new Nighthawk processor featuring 120 qubits.\n\nKey trends observed in 2024 and projected for 2025 include a shift in focus from physical qubits to \"logical qubits,\" which are more robust against errors and promise higher fidelity. This approach, involving encoding information across multiple physical qubits, is seen as a crucial step towards overcoming the \"threshold problem\" in quantum computing.\n\nBeyond superconducting circuits, alternative hardware approaches are gaining traction, such as photonic quantum computing, with companies like PsiQuantum unveiling photonic processors. Princeton researchers have also developed a new tantalum-silicon qubit that boasts significantly longer coherence times, a critical factor for reliable quantum computation.\n\nThe practical applications of quantum computing are also becoming more apparent. Drug discovery is a particularly promising near-term application, with companies like PolarisQB using quantum annealing to compress discovery timelines. Additionally, quantum computers are expected to enhance AI models by generating unique data and are being explored for complex optimization problems that are intractable for classical computers.\n\nThe United Nations has designated 2025 as the International Year of Quantum Science and Technology, highlighting the growing global importance of this field. While widespread, full-scale quantum computing is still a few years away, the convergence of hardware, software, and algorithmic advancements suggests that the \"quantum decade\" has arrived."]},"name":"count_papers"}}],"role":"model"},"finish_reason":"STOP","index":0}],"model_version":"gemini-2.5-flash-lite","response_id":"YDobafaYEbabvdIP_O-SsQM","usage_metadata":{"candidates_token_count":401,"prompt_token_count":664,"prompt_tokens_details":[{"modality":"TEXT","token_count":664}],"total_token_count":1065}}
+-----------------------------------------------------------
+
+google_llm.py:133 INFO:Sending out request, model: gemini-2.5-flash-lite, backend: GoogleLLMVariant.GEMINI_API, stream: False
+google_llm.py:139 DEBUG:
+LLM Request:
+-----------------------------------------------------------
+System Instruction:
+Your task is to find research papers and count them. 
+
+   You must follow these steps:
+   1) Find research papers on the user provided topic using the 'google_search_agent'. 
+   2) Then, pass the papers to 'count_papers' tool to count the number of papers returned.
+   3) Return both the list of research papers and the total number of papers.
+   
+
+You are an agent. Your internal name is "research_paper_finder_agent".
+-----------------------------------------------------------
+Config:
+{'tools': [{}]}
+-----------------------------------------------------------
+Contents:
+{"parts":[{"text":"Find recent papers on quantum computing"}],"role":"user"}
+{"parts":[{"function_call":{"args":{"request":"recent papers on quantum computing"},"name":"google_search_agent"}}],"role":"model"}
+{"parts":[{"function_response":{"name":"google_search_agent","response":{"result":"The field of quantum computing is experiencing rapid advancements, with significant breakthroughs and increased investment shaping its trajectory towards practical applications. Researchers and companies are making substantial progress in quantum error correction, a critical hurdle for building reliable and scalable quantum computers. Companies like Google, IBM, and Microsoft are at the forefront, with Google announcing its Willow chip, capable of computations that would take supercomputers an unfathomable amount of time. IBM is also advancing its roadmap, aiming for quantum advantage by 2026 and fault-tolerant quantum computing by 2029, with its new Nighthawk processor featuring 120 qubits.\n\nKey trends observed in 2024 and projected for 2025 include a shift in focus from physical qubits to \"logical qubits,\" which are more robust against errors and promise higher fidelity. This approach, involving encoding information across multiple physical qubits, is seen as a crucial step towards overcoming the \"threshold problem\" in quantum computing.\n\nBeyond superconducting circuits, alternative hardware approaches are gaining traction, such as photonic quantum computing, with companies like PsiQuantum unveiling photonic processors. Princeton researchers have also developed a new tantalum-silicon qubit that boasts significantly longer coherence times, a critical factor for reliable quantum computation.\n\nThe practical applications of quantum computing are also becoming more apparent. Drug discovery is a particularly promising near-term application, with companies like PolarisQB using quantum annealing to compress discovery timelines. Additionally, quantum computers are expected to enhance AI models by generating unique data and are being explored for complex optimization problems that are intractable for classical computers.\n\nThe United Nations has designated 2025 as the International Year of Quantum Science and Technology, highlighting the growing global importance of this field. While widespread, full-scale quantum computing is still a few years away, the convergence of hardware, software, and algorithmic advancements suggests that the \"quantum decade\" has arrived."}}}],"role":"user"}
+{"parts":[{"function_call":{"args":{"papers":["The field of quantum computing is experiencing rapid advancements, with significant breakthroughs and increased investment shaping its trajectory towards practical applications. Researchers and companies are making substantial progress in quantum error correction, a critical hurdle for building reliable and scalable quantum computers. Companies like Google, IBM, and Microsoft are at the forefront, with Google announcing its Willow chip, capable of computations that would take supercomputers an unfathomable amount of time. IBM is also advancing its roadmap, aiming for quantum advantage by 2026 and fault-tolerant quantum computing by 2029, with its new Nighthawk processor featuring 120 qubits.\n\nKey trends observed in 2024 and projected for 2025 include a shift in focus from physical qubits to \"logical qubits,\" which are more robust against errors and promise higher fidelity. This approach, involving encoding information across multiple physical qubits, is seen as a crucial step towards overcoming the \"threshold problem\" in quantum computing.\n\nBeyond superconducting circuits, alternative hardware approaches are gaining traction, such as photonic quantum computing, with companies like PsiQuantum unveiling photonic processors. Princeton researchers have also developed a new tantalum-silicon qubit that boasts significantly longer coherence times, a critical factor for reliable quantum computation.\n\nThe practical applications of quantum computing are also becoming more apparent. Drug discovery is a particularly promising near-term application, with companies like PolarisQB using quantum annealing to compress discovery timelines. Additionally, quantum computers are expected to enhance AI models by generating unique data and are being explored for complex optimization problems that are intractable for classical computers.\n\nThe United Nations has designated 2025 as the International Year of Quantum Science and Technology, highlighting the growing global importance of this field. While widespread, full-scale quantum computing is still a few years away, the convergence of hardware, software, and algorithmic advancements suggests that the \"quantum decade\" has arrived."]},"name":"count_papers"}}],"role":"model"}
+{"parts":[{"function_response":{"name":"count_papers","response":{"result":1}}}],"role":"user"}
+-----------------------------------------------------------
+Functions:
+google_search_agent: {'request': {'type': <Type.STRING: 'STRING'>}} 
+count_papers: {'papers': {'items': {'type': <Type.STRING: 'STRING'>}, 'type': <Type.ARRAY: 'ARRAY'>}} 
+-----------------------------------------------------------
+
+_trace.py:87 DEBUG:send_request_headers.started request=<Request [b'POST']>
+_trace.py:87 DEBUG:send_request_headers.complete
+_trace.py:87 DEBUG:send_request_body.started request=<Request [b'POST']>
+_trace.py:87 DEBUG:send_request_body.complete
+_trace.py:87 DEBUG:receive_response_headers.started request=<Request [b'POST']>
+_trace.py:87 DEBUG:receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=UTF-8'), (b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Encoding', b'gzip'), (b'Date', b'Mon, 17 Nov 2025 15:08:18 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=1560'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+_client.py:1740 INFO:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+_trace.py:87 DEBUG:receive_response_body.started request=<Request [b'POST']>
+_trace.py:87 DEBUG:receive_response_body.complete
+_trace.py:87 DEBUG:response_closed.started
+_trace.py:87 DEBUG:response_closed.complete
+google_llm.py:186 INFO:Response received from the model.
+google_llm.py:187 DEBUG:
+LLM Response:
+-----------------------------------------------------------
+Text:
+The field of quantum computing is experiencing rapid advancements, with significant breakthroughs and increased investment shaping its trajectory towards practical applications. Researchers and companies are making substantial progress in quantum error correction, a critical hurdle for building reliable and scalable quantum computers. Companies like Google, IBM, and Microsoft are at the forefront, with Google announcing its Willow chip, capable of computations that would take supercomputers an unfathomable amount of time. IBM is also advancing its roadmap, aiming for quantum advantage by 2026 and fault-tolerant quantum computing by 2029, with its new Nighthawk processor featuring 120 qubits.
+
+Key trends observed in 2024 and projected for 2025 include a shift in focus from physical qubits to "logical qubits," which are more robust against errors and promise higher fidelity. This approach, involving encoding information across multiple physical qubits, is seen as a crucial step towards overcoming the "threshold problem" in quantum computing.
+
+Beyond superconducting circuits, alternative hardware approaches are gaining traction, such as photonic quantum computing, with companies like PsiQuantum unveiling photonic processors. Princeton researchers have also developed a new tantalum-silicon qubit that boasts significantly longer coherence times, a critical factor for reliable quantum computation.
+
+The practical applications of quantum computing are also becoming more apparent. Drug discovery is a particularly promising near-term application, with companies like PolarisQB using quantum annealing to compress discovery timelines. Additionally, quantum computers are expected to enhance AI models by generating unique data and are being explored for complex optimization problems that are intractable for classical computers.
+
+The United Nations has designated 2025 as the International Year of Quantum Science and Technology, highlighting the growing global importance of this field. While widespread, full-scale quantum computing is still a few years away, the convergence of hardware, software, and algorithmic advancements suggests that the "quantum decade" has arrived.
+
+There is 1 research paper on quantum computing.
+-----------------------------------------------------------
+Function calls:
+
+-----------------------------------------------------------
+Raw response:
+{"sdk_http_response":{"headers":{"content-type":"application/json; charset=UTF-8","vary":"Origin, X-Origin, Referer","content-encoding":"gzip","date":"Mon, 17 Nov 2025 15:08:18 GMT","server":"scaffolding on HTTPServer2","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","server-timing":"gfet4t7; dur=1560","alt-svc":"h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000","transfer-encoding":"chunked"}},"candidates":[{"content":{"parts":[{"text":"The field of quantum computing is experiencing rapid advancements, with significant breakthroughs and increased investment shaping its trajectory towards practical applications. Researchers and companies are making substantial progress in quantum error correction, a critical hurdle for building reliable and scalable quantum computers. Companies like Google, IBM, and Microsoft are at the forefront, with Google announcing its Willow chip, capable of computations that would take supercomputers an unfathomable amount of time. IBM is also advancing its roadmap, aiming for quantum advantage by 2026 and fault-tolerant quantum computing by 2029, with its new Nighthawk processor featuring 120 qubits.\n\nKey trends observed in 2024 and projected for 2025 include a shift in focus from physical qubits to \"logical qubits,\" which are more robust against errors and promise higher fidelity. This approach, involving encoding information across multiple physical qubits, is seen as a crucial step towards overcoming the \"threshold problem\" in quantum computing.\n\nBeyond superconducting circuits, alternative hardware approaches are gaining traction, such as photonic quantum computing, with companies like PsiQuantum unveiling photonic processors. Princeton researchers have also developed a new tantalum-silicon qubit that boasts significantly longer coherence times, a critical factor for reliable quantum computation.\n\nThe practical applications of quantum computing are also becoming more apparent. Drug discovery is a particularly promising near-term application, with companies like PolarisQB using quantum annealing to compress discovery timelines. Additionally, quantum computers are expected to enhance AI models by generating unique data and are being explored for complex optimization problems that are intractable for classical computers.\n\nThe United Nations has designated 2025 as the International Year of Quantum Science and Technology, highlighting the growing global importance of this field. While widespread, full-scale quantum computing is still a few years away, the convergence of hardware, software, and algorithmic advancements suggests that the \"quantum decade\" has arrived.\n\nThere is 1 research paper on quantum computing."}],"role":"model"},"finish_reason":"STOP","index":0}],"model_version":"gemini-2.5-flash-lite","response_id":"YTobaa3-OYnpxN8P_uGtiQE","usage_metadata":{"candidates_token_count":392,"prompt_token_count":1080,"prompt_tokens_details":[{"modality":"TEXT","token_count":1080}],"total_token_count":1472}}
+-----------------------------------------------------------
+

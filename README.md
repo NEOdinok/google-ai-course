@@ -30,6 +30,9 @@ Start the ADK development server from the project root:
 
 ```bash
 source .venv/bin/activate
+```
+
+```bash
 adk web agents
 ```
 
